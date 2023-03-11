@@ -1,3 +1,2 @@
 this is the modified text file
 hello world
-hi
